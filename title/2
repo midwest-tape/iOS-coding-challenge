@@ -1,0 +1,10 @@
+{
+  "title": {
+    "id": 2,
+    "title": "Mystery of the Lost City",
+    "author": "Jane Smith",
+    "image_url": "https://via.placeholder.com/300x450?text=Mystery+of+the+Lost+City",
+    "content_type": "audiobook",
+    "synopsis": "A historian uncovers clues to a long-lost city, unraveling a mystery that has baffled generations."
+  }
+}
